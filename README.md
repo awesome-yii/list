@@ -116,6 +116,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Yupe](http://yupe.ru/en) - simple, lite and easy. Uses Yii, Twitter Bootstrap and jQuery
 * [CiiMS](https://github.com/charlesportwoodii/CiiMS) - a high performance CMS blogging platform designed to be easy to use
 * [yiicms](https://github.com/magefad/yiicms) - easy CMS with the basic modules and extensions to start
+* [Craft](http://buildwithcraft.com/) - very slick commercial CMS with a free plan.
 
 ## Tools and integrations
 
