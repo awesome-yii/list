@@ -43,6 +43,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 ### Database
 
+* [yii2-arangodb](https://github.com/DevGroup-ru/yii2-arangodb) - ArangoDB integration for the Yii2 : Connection, Query, ActiveRecord, Migrations
 * [2amigos/yii2-taggable-behavior](https://github.com/2amigos/yii2-taggable-behavior) - behavior functions for tagging
 * [2amigos/yii2-translateable-behavior](https://github.com/2amigos/yii2-translateable-behavior) - handles ActiveRecord's attribute translations
 
