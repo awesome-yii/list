@@ -125,6 +125,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Fenom renderer](https://bitbucket.org/RSol/rfenomviewrender) - allows to use [Fenom](https://github.com/bzick/fenom) template engine in views.
 * [Quicky renderer](https://github.com/yiiext/quicky-renderer) -  allows to use [Quicky](https://github.com/kakserpom/quicky) template engine in views.
 
+### Debug
+
+* [Yii2 debug panel port](https://github.com/zhuravljov/yii2-debug) - debug panel for Yii 1.1 (ported from Yii 2)
+* [Yii debug toolbar](http://www.yiiframework.com/extension/yii-debug-toolbar/) - a configurable set of panels that display various debug information about the current request/response.
 
 ### Other
 
