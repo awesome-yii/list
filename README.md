@@ -103,6 +103,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ### Input
 
 * [Imperavi redactor widget](https://github.com/yiiext/imperavi-redactor-widget) - Imperavi Redactor WYSIWYG widget (OEM-licensed for Yii).
+* [X-editable](https://github.com/vitalets/x-editable-yii) - bundle of widgets and server-side component for creating editable elements in Yii application.
 
 ### Image
 
@@ -124,11 +125,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Smarty renderer](https://github.com/yiiext/smarty-renderer) - allows you to use [Smarty 3](http://www.smarty.net/) templates in views.
 * [Fenom renderer](https://bitbucket.org/RSol/rfenomviewrender) - allows to use [Fenom](https://github.com/bzick/fenom) template engine in views.
 * [Quicky renderer](https://github.com/yiiext/quicky-renderer) -  allows to use [Quicky](https://github.com/kakserpom/quicky) template engine in views.
+* [Haml renderer](https://github.com/delfit/yii-haml) - allows to use [Haml](http://en.wikipedia.org/wiki/Haml) in views.
 
 ### Debug
 
 * [Yii2 debug panel port](https://github.com/zhuravljov/yii2-debug) - debug panel for Yii 1.1 (ported from Yii 2).
-* [Yii debug toolbar](http://www.yiiframework.com/extension/yii-debug-toolbar/) - a configurable set of panels that display various debug information about the current request/response.
+* [Debug toolbar](http://www.yiiframework.com/extension/yii-debug-toolbar/) - a configurable set of panels that display various debug information about the current request/response.
+* [Db profiler](https://github.com/samdark/yii-db-profiler) - Yii profiler adjusted to deal with MySQL performance optimizations.
 
 ### Other
 
