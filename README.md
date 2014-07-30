@@ -3,7 +3,12 @@
 A curated list of awesome Yii Framework extensions, tutorials and other nice things.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awesome lists](https://github.com/sindresorhus/awesome)
 
+## ToC
 
+* [Yii 2.*](#yii-2)
+* [Yii 1.*](#yii-1)
+
+---
 ## Official Resources
 
 * [Official site](http://yiiframework.com/)
@@ -91,11 +96,15 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ### Widgets / GUI
 
 * [YiiBooster](http://yiibooster.clevertech.biz/) - a collection of Bootstra based widgets.
-* [Yii Wheels](http://yiiwheels.2amigos.us/) - like a YiiBooster, but with more optimized approach.
+* [YiiWheels](http://yiiwheels.2amigos.us/) - like a YiiBooster, but with more optimized approach.
 * [YiiStrap](http://www.getyiistrap.com/) - the ultimate Twitter Bootstrap extension for Yii.
 * [YiiFoundation](https://github.com/2amigos/yiifoundation) -  extension library for ZURB Foundation Framework.
 
-### Images
+### Input
+
+* [Imperavi redactor widget](https://github.com/yiiext/imperavi-redactor-widget) - Imperavi Redactor WYSIWYG widget (OEM-licensed for Yii)
+
+### Image
 
 * [crisu83/yii-image](https://github.com/crisu83/yii-image) - image versioning and manipulation.
 
@@ -109,6 +118,19 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [giix](https://github.com/rcoelho/giix) - gii extended.
 * [yii-caviar](https://github.com/crisu83/yii-caviar) - next generation code generation for Yii.
 
+### Template
+
+* [Twig renderer](https://github.com/yiiext/twig-renderer) - allows to use [Twig](http://twig.sensiolabs.org/) template engine in views.
+* [Smarty renderer](https://github.com/yiiext/smarty-renderer) - allows you to use [Smarty 3](http://www.smarty.net/) templates in views.
+* [Fenom renderer](https://bitbucket.org/RSol/rfenomviewrender) - allows to use [Fenom](https://github.com/bzick/fenom) template engine in views.
+* [Quicky renderer](https://github.com/yiiext/quicky-renderer) -  allows to use [Quicky](https://github.com/kakserpom/quicky) template engine in views.
+
+
+### Other
+
+* [EAV behavior](https://github.com/yiiext/eav-behavior) - implements entity-attribute-value pattern.
+* [Nested Set Behavior](https://github.com/yiiext/nested-set-behavior) - AR models behavior that allows to work with nested sets tree.
+* [Activerecord relation behavior](https://github.com/yiiext/activerecord-relation-behavior) - put together the awesomeness of many yii extensions that aim to improve saving of related records.
 
 ## CMS (Yii based)
 
