@@ -15,7 +15,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ## Tutorials
 
 * The definive guide to Yii2:  [HTML](http://stuff.cebe.cc/yii2docs/guide-README.html), [PDF](http://stuff.cebe.cc/yii2-guide.pdf) (work in progress).
-* [Try Yii2](https://gitlab.com/iJackUA/try-yii2) - Vagrant VM + Ansible provisioning = Complete readymade virtual server Yii2 playground.
+* [Try Yii2](https://github.com/iJackUA/try-yii2) - Vagrant VM + Ansible provisioning = Complete readymade virtual server Yii2 playground.
 
 
 ## Project structure examples
