@@ -1,7 +1,7 @@
 # Awesome Yii Framework
 
 A curated list of awesome Yii Framework extensions, tutorials and other nice things.
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awesome lists](https://github.com/sindresorhus/awesome)
+Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## ToC
 
@@ -96,7 +96,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 ### Widgets / GUI
 
-* [YiiBooster](http://yiibooster.clevertech.biz/) - a collection of Bootstra based widgets.
+* [YiiBooster](http://yiibooster.clevertech.biz/) - a collection of Bootstrap based widgets.
 * [YiiWheels](http://yiiwheels.2amigos.us/) - like a YiiBooster, but with more optimized approach.
 * [YiiStrap](http://www.getyiistrap.com/) - the ultimate Twitter Bootstrap extension for Yii.
 * [YiiFoundation](https://github.com/2amigos/yiifoundation) -  extension library for ZURB Foundation Framework.
