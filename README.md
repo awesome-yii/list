@@ -1,7 +1,7 @@
 # Awesome Yii Framework
 
 A curated list of awesome Yii Framework extensions, tutorials and other nice things.
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awesome lists](https://github.com/sindresorhus/awesome)
+Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## ToC
 
@@ -28,6 +28,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * Official [basic](http://www.yiiframework.com/doc-2.0/guide-apps-basic.html) and [advanced](http://www.yiiframework.com/doc-2.0/guide-apps-advanced.html) structures. [Code](https://github.com/yiisoft/yii2/tree/master/apps).
 * [Minimal Application Template](https://github.com/samdark/yii2-minimal) by samdark.
 * [Practical Application Template](https://github.com/kartik-v/yii2-app-practical) by kartik-v (and its variations ["A"](https://github.com/kartik-v/yii2-app-practical-a) and ["B"](https://github.com/kartik-v/yii2-app-practical-b)).
+* [Demo blog on AngularJS with server-side Yii2 Rest API](https://github.com/githubjeka/angular-yii2) by githubjeka.
 
 ## Extensions
 
@@ -95,7 +96,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 ### Widgets / GUI
 
-* [YiiBooster](http://yiibooster.clevertech.biz/) - a collection of Bootstra based widgets.
+* [YiiBooster](http://yiibooster.clevertech.biz/) - a collection of Bootstrap based widgets.
 * [YiiWheels](http://yiiwheels.2amigos.us/) - like a YiiBooster, but with more optimized approach.
 * [YiiStrap](http://www.getyiistrap.com/) - the ultimate Twitter Bootstrap extension for Yii.
 * [YiiFoundation](https://github.com/2amigos/yiifoundation) -  extension library for ZURB Foundation Framework.
