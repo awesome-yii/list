@@ -100,6 +100,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [YiiStrap](http://www.getyiistrap.com/) - the ultimate Twitter Bootstrap extension for Yii.
 * [YiiFoundation](https://github.com/2amigos/yiifoundation) -  extension library for ZURB Foundation Framework.
 
+### Database
+
+* [MongoYii](https://github.com/Sammaye/MongoYii) - a Yii MongoDB ORM.
+
 ### Input
 
 * [Imperavi redactor widget](https://github.com/yiiext/imperavi-redactor-widget) - Imperavi Redactor WYSIWYG widget (OEM-licensed for Yii).
@@ -133,6 +137,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Debug toolbar](http://www.yiiframework.com/extension/yii-debug-toolbar/) - a configurable set of panels that display various debug information about the current request/response.
 * [Db profiler](https://github.com/samdark/yii-db-profiler) - Yii profiler adjusted to deal with MySQL performance optimizations.
 
+### API
+
+* [RESTFullYii](https://github.com/evan108108/RESTFullYii) - full HTTP verb support for resources, the ability to offset, limit, sort, filter and manipulate related data.
+
 ### Other
 
 * [EAV behavior](https://github.com/yiiext/eav-behavior) - implements entity-attribute-value pattern.
@@ -156,6 +164,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * ["Yii Application Development Cookbook"](http://yiicookbook.org/) by Alexander Makarov.
 * ["Web Application Development with Yii and PHP"](http://www.packtpub.com/web-application-development-with-yii-and-php-second-edition/book) by Jeffrey Winesett.
 * ["The Yii Book"](http://yii.larryullman.com/) by Larry Ulman.
+* ["Yii Rapid Application Development Hotshot"](http://www.packtpub.com/yii-rapid-application-development-hotshot/book) by Lauren J. O'Meara, James R. Hamilton III.
+* ["Beginning Yii \[Video\]"](http://www.packtpub.com/beginning-yii-php-framework/video) by Chris Backhouse.
 
 ---
 # Communities
