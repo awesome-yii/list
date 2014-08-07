@@ -60,6 +60,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ### Other
 
 * [2amigos/yii2-qrcode-helper](https://github.com/2amigos/yii2-qrcode-helper) - helper allows you to render QrCode.
+* [monitorbacklinks/yii2-wordpress](https://github.com/monitorbacklinks/yii2-wordpress) - a component for integration with Wordpress CMS via XML-RPC API.
 
 ## CMS (Yii based)
 
