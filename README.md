@@ -172,4 +172,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ---
 # Communities
 
-* [http://yiiframework.ru](http://yiiframework.ru/)
+* [http://yiinewsletter.com](http://yiinewsletter.com/) - the best Yii tips, tricks, and tools delivered to your inbox.
+* [http://yiiframework.ru](http://yiiframework.ru/) - Russian-speaking community.
+
