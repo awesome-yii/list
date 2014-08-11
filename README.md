@@ -84,6 +84,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Yii 1.1: How to learn Yii?!](http://www.yiiframework.com/wiki/268/how-to-learn-yii) - Bring some learning flow recommendation.
 * [A longer series on installing, using, and customizing the Yii framework](http://www.larryullman.com/series/learning-the-yii-framework/) by Larry Ulman.
 * [Under the Hood of Yii’s Component Architecture](http://www.sitepoint.com/yii-under-the-hood-1/) (3 parts) - must read to get deep understanding of what Components are in Yii.
+* [Configuring PhpStorm IDE for Yii](http://www.yiiframework.com/wiki/92/configuring-phpstorm-ide-for-yii/).
+* [Configuring NetBeans IDE for Yii](http://www.yiiframework.com/wiki/83/netbeans-ide-and-yii-projects/).
 
 ## Project structure examples
 
@@ -160,6 +162,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ## Tools and integrations
 
 * [YiiStorm](http://plugins.jetbrains.com/plugin/?webide&pluginId=7182) - Yii framework integration for PhpStorm.
+* [NetBeans Yii Plugin](http://plugins.netbeans.org/plugin/47246/php-yii-framework-netbeans-phpcc) - add navigation, code completion and command run support.
 
 ## Books
 
