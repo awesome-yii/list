@@ -153,6 +153,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 ## CMS (Yii based)
 
+* [HumHub](https://www.humhub.org/) - a flexible open source Social Network Kit.
 * [Phundament](http://www.phundament.com/) - universal HTML5 Application Boilerplates.
 * [Yupe](http://yupe.ru/en) - simple, lite and easy. Uses Yii, Twitter Bootstrap and jQuery.
 * [CiiMS](https://github.com/charlesportwoodii/CiiMS) - a high performance CMS blogging platform designed to be easy to use.
