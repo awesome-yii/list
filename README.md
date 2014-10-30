@@ -75,6 +75,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * ["Web Application Development with Yii 2 and PHP"](http://www.amazon.com/dp/1783981881) by Mark Safronov.
 * Larry Ulman has a [plan to update his Yii book](http://www.larryullman.com/2012/09/12/yii-2-and-the-yii-book/) for Yii2 after its release.
 * [Yii2 Cookbook](https://github.com/samdark/yii2-cookbook/blob/master/book/README.md) by samdark (work in progress).
+* [Yii 2 For Beginners](https://leanpub.com/yii2forbeginners) by Bill Keck
 
 ---
 # Yii 1.*
