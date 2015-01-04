@@ -3,6 +3,9 @@
 A curated list of awesome Yii Framework extensions, tutorials and other nice things.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awesome lists](https://github.com/sindresorhus/awesome).
 
+## Join discussion and contribute !
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-yii?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## ToC
 
 * [Yii 2.*](#yii-2)
