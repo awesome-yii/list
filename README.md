@@ -17,6 +17,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Official site](http://yiiframework.com/)
 * [Official community](http://www.yiiframework.com/community/)
 
+## Yii News
+
+* [YiiFeed.com](http://yiifeed.com/) - community selected stream of news about Yii framework.
+
 ---
 # Yii 2.*
 
