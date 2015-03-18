@@ -54,8 +54,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ### Geo / Maps
 
 * [2amigos/yii2-leaflet-library](https://github.com/2amigos/yii2-leaflet-library) - extension library to display interactive maps with Leaflet.
-* [amstr1k/yii2-geography](https://github.com/amstr1k/yii2-geography) - extension to work with cities and countries from the database [Geonames](http://www.geonames.
-
+* [amstr1k/yii2-geography](https://github.com/amstr1k/yii2-geography) - extension to work with cities and countries from the database [Geonames](http://www.geonames.org/)
 
 ### Database
 
