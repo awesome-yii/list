@@ -21,6 +21,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 * [YiiFeed.com](http://yiifeed.com/) - community selected stream of news about Yii framework.
 
+
 ---
 # Yii 2.*
 
@@ -32,7 +33,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 ## Project structure examples
 
-* Official [basic](http://www.yiiframework.com/doc-2.0/guide-apps-basic.html) and [advanced](http://www.yiiframework.com/doc-2.0/guide-apps-advanced.html) structures. [Code](https://github.com/yiisoft/yii2/tree/master/apps).
+* Official [basic](https://github.com/yiisoft/yii2/tree/master/apps/basic#yii-2-basic-application-template) and [advanced](http://www.yiiframework.com/doc-2.0/guide-tutorial-advanced-app.html) structures. [Code](https://github.com/yiisoft/yii2/tree/master/apps).
 * [Minimal Application Template](https://github.com/samdark/yii2-minimal) by samdark.
 * [Practical Application Template](https://github.com/kartik-v/yii2-app-practical) by kartik-v (and its variations ["A"](https://github.com/kartik-v/yii2-app-practical-a) and ["B"](https://github.com/kartik-v/yii2-app-practical-b)).
 * [Demo blog on AngularJS with server-side Yii2 Rest API](https://github.com/githubjeka/angular-yii2) by githubjeka.
@@ -53,7 +54,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ### Geo / Maps
 
 * [2amigos/yii2-leaflet-library](https://github.com/2amigos/yii2-leaflet-library) - extension library to display interactive maps with Leaflet.
-* [amstr1k/yii2-geography](https://github.com/amstr1k/yii2-geography) - extension to work with cities and countries from the database [Geonames](http://www.geonames.org/)
+* [amstr1k/yii2-geography](https://github.com/amstr1k/yii2-geography) - extension to work with cities and countries from the database [Geonames](http://www.geonames.
+
 
 ### Database
 
