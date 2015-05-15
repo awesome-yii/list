@@ -81,6 +81,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 ## Books
 
+* ["How To Create Single Page Application in minutes! with AngularJs 1.3 and Yii 2.0"](https://www.gitbook.com/book/hscstudio/angular1-yii2/details) by Hafid Mukhlasin.
 * ["Web Application Development with Yii 2 and PHP"](http://www.amazon.com/dp/1783981881) by Mark Safronov.
 * Larry Ulman has a [plan to update his Yii book](http://www.larryullman.com/2012/09/12/yii-2-and-the-yii-book/) for Yii2 after its release.
 * [Yii2 Cookbook](https://github.com/samdark/yii2-cookbook/blob/master/book/README.md) by samdark (work in progress).
