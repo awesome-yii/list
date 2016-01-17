@@ -73,6 +73,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 ## CMS (Yii2 based)
 
+* [LUYA](https://github.com/zephir/luya) - the programmatic CMS based on the Yii2 Framework.
 * [dotPlant2](http://dotplant.ru/) - e-commerce CMS.
 * [EASYII CMS](http://easyiicms.com/) - control panel and tools.
 
