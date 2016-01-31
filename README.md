@@ -14,7 +14,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ---
 ## Official Resources
 
-* [Official site](http://yiiframework.com/)
+* [Official site](http://www.yiiframework.com/)
 * [Official community](http://www.yiiframework.com/community/)
 
 ## Yii News
@@ -145,9 +145,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 * [Twig renderer](https://github.com/yiiext/twig-renderer) - allows to use [Twig](http://twig.sensiolabs.org/) template engine in views.
 * [Smarty renderer](https://github.com/yiiext/smarty-renderer) - allows you to use [Smarty 3](http://www.smarty.net/) templates in views.
-* [Fenom renderer](https://bitbucket.org/RSol/rfenomviewrender) - allows to use [Fenom](https://github.com/bzick/fenom) template engine in views.
+* [Fenom renderer](https://bitbucket.org/RSol/rfenomviewrender) - allows to use [Fenom](https://github.com/fenom-template/fenom) template engine in views.
 * [Quicky renderer](https://github.com/yiiext/quicky-renderer) -  allows to use [Quicky](https://github.com/kakserpom/quicky) template engine in views.
-* [Haml renderer](https://github.com/delfit/yii-haml) - allows to use [Haml](http://en.wikipedia.org/wiki/Haml) in views.
+* [Haml renderer](https://github.com/delfit/yii-haml) - allows to use [Haml](https://en.wikipedia.org/wiki/Haml) in views.
 
 ### Debug
 
@@ -168,11 +168,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 ## CMS (Yii based)
 
 * [HumHub](https://www.humhub.org/) - a flexible open source Social Network Kit.
-* [Phundament](http://www.phundament.com/) - universal HTML5 Application Boilerplates.
+* [Phundament](http://phundament.com/) - universal HTML5 Application Boilerplates.
 * [Yupe](http://yupe.ru/en) - simple, lite and easy. Uses Yii, Twitter Bootstrap and jQuery.
 * [CiiMS](https://github.com/charlesportwoodii/CiiMS) - a high performance CMS blogging platform designed to be easy to use.
 * [yiicms](https://github.com/magefad/yiicms) - easy CMS with the basic modules and extensions to start.
-* [Craft](http://buildwithcraft.com/) - very slick commercial CMS with a free plan.
+* [Craft](https://craftcms.com/) - very slick commercial CMS with a free plan.
 
 ## Tools and integrations
 
@@ -183,10 +183,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 * ["Yii Project Blueprints"](http://www.amazon.com/dp/178328773X) by Charles R. Portwood II.
 * ["Yii Application Development Cookbook"](http://yiicookbook.org/) by Alexander Makarov.
-* ["Web Application Development with Yii and PHP"](http://www.packtpub.com/web-application-development-with-yii-and-php-second-edition/book) by Jeffrey Winesett.
-* ["The Yii Book"](http://yii.larryullman.com/) by Larry Ulman.
-* ["Yii Rapid Application Development Hotshot"](http://www.packtpub.com/yii-rapid-application-development-hotshot/book) by Lauren J. O'Meara, James R. Hamilton III.
-* ["Beginning Yii \[Video\]"](http://www.packtpub.com/beginning-yii-php-framework/video) by Chris Backhouse.
+* ["Web Application Development with Yii and PHP"](http://www.packtpub.com/web-development/web-application-development-yii-and-php) by Jeffrey Winesett.
+* ["The Yii Book"](https://larry.pub) by Larry Ulman.
+* ["Yii Rapid Application Development Hotshot"](http://www.packtpub.com/web-development/yii-rapid-application-development-hotshot) by Lauren J. O'Meara, James R. Hamilton III.
+* ["Beginning Yii \[Video\]"](http://www.packtpub.com/web-development/beginning-yii-video) by Chris Backhouse.
 
 ---
 # Communities
