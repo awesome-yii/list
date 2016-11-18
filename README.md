@@ -70,12 +70,15 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 * [2amigos/yii2-qrcode-helper](https://github.com/2amigos/yii2-qrcode-helper) - helper allows you to render QrCode.
 * [monitorbacklinks/yii2-wordpress](https://github.com/monitorbacklinks/yii2-wordpress) - a component for integration with Wordpress CMS via XML-RPC API.
+* [Favorite Manager](https://github.com/thyseus/yii2-favorites) General Favorites Manager for the Yii 2 framework.
+* [Message](https://github.com/thyseus/yii2-message) System for users to send each other private messages.
 
 ## CMS (Yii2 based)
 
 * [LUYA](https://luya.io) - The Yii 2 CMS to build beautiful and easy editable websites pretty fast!
 * [dotPlant2](http://dotplant.ru/) - e-commerce CMS.
 * [EASYII CMS](http://easyiicms.com/) - control panel and tools.
+* [Yii2-sitecontent](https://github.com/thyseus/yii2-sitecontent) - Tiny CMS for Yii2
 
 ## Tools and integrations
 
