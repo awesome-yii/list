@@ -76,6 +76,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [LUYA](https://luya.io) - The Yii 2 CMS to build beautiful and easy editable websites pretty fast!
 * [dotPlant2](http://dotplant.ru/) - e-commerce CMS.
 * [EASYII CMS](http://easyiicms.com/) - control panel and tools.
+* [HumHub](https://www.humhub.org/) - a flexible open source Social Network Kit.
+* [Phundament](http://phundament.com/) - universal HTML5 Application Boilerplates.
 
 ## Tools and integrations
 
