@@ -4,7 +4,7 @@ A curated list of awesome Yii Framework extensions, tutorials and other nice thi
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Join discussion and contribute !
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-yii?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/samdark/awesome-yii?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## ToC
 
@@ -85,9 +85,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 * ["How To Create Single Page Application in minutes! with AngularJs 1.3 and Yii 2.0"](https://www.gitbook.com/book/hscstudio/angular1-yii2/details) by Hafid Mukhlasin.
 * ["Web Application Development with Yii 2 and PHP"](http://www.amazon.com/dp/1783981881) by Mark Safronov.
-* Larry Ulman has a [plan to update his Yii book](http://www.larryullman.com/2012/09/12/yii-2-and-the-yii-book/) for Yii2 after its release.
-* [Yii2 Cookbook](https://github.com/samdark/yii2-cookbook/blob/master/book/README.md) by samdark (work in progress).
-* [Yii 2 For Beginners](https://leanpub.com/yii2forbeginners) by Bill Keck
+* [Larry Ulman Yii book](https://larry.pub/).
+* [Yii2 Cookbook](https://github.com/samdark/yii2-cookbook/blob/master/book/README.md) by Alexander Makarov and community.
+* [Yii 2 For Beginners](https://leanpub.com/yii2forbeginners) by Bill Keck.
 
 ---
 # Yii 1.*
