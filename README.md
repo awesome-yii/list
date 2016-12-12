@@ -90,6 +90,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Larry Ulman Yii book](https://larry.pub/).
 * [Yii2 Cookbook](https://github.com/samdark/yii2-cookbook/blob/master/book/README.md) by Alexander Makarov and community.
 * [Yii 2 For Beginners](https://leanpub.com/yii2forbeginners) by Bill Keck.
+* [Yii 2 Application Development Cookbook - Third Edition](https://www.packtpub.com/web-development/yii2-application-development-cookbook-third-edition).
 
 ---
 # Yii 1.*
