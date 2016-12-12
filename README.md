@@ -71,13 +71,16 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [2amigos/yii2-qrcode-helper](https://github.com/2amigos/yii2-qrcode-helper) - helper allows you to render QrCode.
 * [monitorbacklinks/yii2-wordpress](https://github.com/monitorbacklinks/yii2-wordpress) - a component for integration with Wordpress CMS via XML-RPC API.
 
-## CMS (Yii2 based)
+## CMS and engines (Yii2 based)
 
 * [LUYA](https://luya.io) - The Yii 2 CMS to build beautiful and easy editable websites pretty fast!
 * [dotPlant2](http://dotplant.ru/) - e-commerce CMS.
 * [EASYII CMS](http://easyiicms.com/) - control panel and tools.
 * [HumHub](https://www.humhub.org/) - a flexible open source Social Network Kit.
 * [Phundament](http://phundament.com/) - universal HTML5 Application Boilerplates.
+* [Craft 3](https://craftcms.com/3) - CMS.
+* [Podium](https://github.com/bizley/yii2-podium) - Forum engine.
+* [Moonsoon](http://monsooncms.com/) - CMS.
 
 ## Tools and integrations
 
