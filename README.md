@@ -13,6 +13,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Official site](http://www.yiiframework.com/)
 * [Official community](http://www.yiiframework.com/community/)
 
+## Websites showcase
+
+* [YiiPowered.com](http://yiipowered.com/) - projects built on Yii framework. Anyone can add a project.
+
 ## Yii News
 
 * [YiiFeed.com](http://yiifeed.com/) - community selected stream of news about Yii framework.
@@ -76,7 +80,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 ## Tools and integrations
 
-* Not known.
+* [Yii2 Inspections for PhpStorm / IntelliJ IDEA](https://plugins.jetbrains.com/idea/plugin/9400-yii2-inspections).
+* [Yii2 Support for PhpStorm / IntelliJ IDEA](https://plugins.jetbrains.com/idea/plugin/9388-yii2-support).
 
 ## Books
 
