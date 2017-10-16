@@ -52,6 +52,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Minimal Application Template](https://github.com/samdark/yii2-minimal) by samdark.
 * [Practical Application Template](https://github.com/kartik-v/yii2-app-practical) by kartik-v (and its variations ["A"](https://github.com/kartik-v/yii2-app-practical-a) and ["B"](https://github.com/kartik-v/yii2-app-practical-b)).
 * [Demo blog on AngularJS with server-side Yii2 Rest API](https://github.com/githubjeka/angular-yii2) by githubjeka.
+* [Yii 2 Starter Kit](https://github.com/trntv/yii2-starter-kit) by trntv
 
 ## Videos
 * [Learning Yii 2](https://www.packtpub.com/web-development/learning-yii-2-video)
