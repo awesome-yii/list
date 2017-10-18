@@ -86,6 +86,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Krajee Yii Extensions](http://demos.krajee.com/) - a collection of extensions & modules.
 * [Lepture Markdown editor](https://github.com/iJackUA/yii2-lepture-markdown-editor-widget) - a markdown editor you really want.
 * [Yii 2 jsTree Component](http://yiidreamteam.com/yii2/jstree) - jsTree is jquery plugin, that provides interactive trees. 
+* [yii2-notification-wrapper](https://github.com/loveorigami/yii2-notification-wrapper) -  Notification wrapper module renders a message from session flash (with ajax, pjax support and etc.) through Growl, Noty, Toastr and more libraries
 
 ### Social
 
@@ -105,6 +106,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Yii 2 Redis](https://github.com/yiisoft/yii2-redis) - This extension provides the redis key-value store support for Yii 2.
 * [Yii 2 MongoDB](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
 
+### Content
+
+* [yii2-plugins-system](https://github.com/loveorigami/yii2-plugins-system) -  Plugins system module with event manager and [shortcodes](https://github.com/loveorigami/yii2-shortcodes-pack) as WordPress
 
 ### Other
 
