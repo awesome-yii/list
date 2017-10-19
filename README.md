@@ -140,24 +140,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 
 ## Contributing
-Found an awesome package, article, blog, video, tutorial etc.? Create a pull request! Just follow the guidelines.
+Found an awesome package, article, blog, video, tutorial etc.? Create a pull request! Just follow these [contribution guidelines](https://github.com/awesome-yii/list/blob/master/CONTRIBUTING.md).
 
-### Join discussion and contribute !
+### Join the discussion!
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/samdark/awesome-yii?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 > If you're looking for Yii 1.1, [check its own list here](1.1.md).
-
-#### Guidelines
-
-* Make sure what you are adding is not already on the list
-* Make a separate pull request for each addition
-* Use the format: `* [Name](Link) - Description if needed`
-* Add it to the bottom of the section, not top or middle
-* Check your spelling and grammar
-* Feel free to create or improve a category
-* Make sure there is no trailing whitespace
-* Lastly, make sure it is awesome!
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
