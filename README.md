@@ -157,3 +157,7 @@ Found an awesome package, article, blog, video, tutorial etc.? Create a pull req
 * Feel free to create or improve a category
 * Make sure there is no trailing whitespace
 * Lastly, make sure it is awesome!
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
