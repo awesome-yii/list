@@ -6,14 +6,8 @@
 > A curated list of awesome Yii Framework extensions, tutorials and other nice things.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awesome lists](https://github.com/sindresorhus/awesome).
 
-## Join discussion and contribute !
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/samdark/awesome-yii?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-> If you're looking for Yii 1.1, [check its own list here](1.1.md).
-
-
-
-## Table Of Contents
+## Contents
 - [Essentials](#essentials)
 - [Tutorials](#tutorials)
 - [Videos](#videos)
@@ -147,6 +141,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 
 ## Contributing
 Found an awesome package, article, blog, video, tutorial etc.? Create a pull request! Just follow the guidelines.
+
+### Join discussion and contribute !
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/samdark/awesome-yii?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+> If you're looking for Yii 1.1, [check its own list here](1.1.md).
 
 #### Guidelines
 
