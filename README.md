@@ -1,9 +1,9 @@
-# Awesome Yii 2.0 Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Yii 2 Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-![](http://static.yiiframework.com/files/logo/yii.png)
+![awesome-yii](https://raw.githubusercontent.com/awesome-yii/list/master/awesome-yii.png)
 
-> A curated list of awesome Yii Framework extensions, tutorials and other nice things.
+A curated list of awesome Yii Framework extensions, tutorials and other nice things.
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awesome lists](https://github.com/sindresorhus/awesome).
 
 
