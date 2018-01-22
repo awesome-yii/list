@@ -80,7 +80,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [Krajee Yii Extensions](http://demos.krajee.com/) - Collection of extensions & modules.
 * [Lepture Markdown editor](https://github.com/iJackUA/yii2-lepture-markdown-editor-widget) - Markdown editor that you really want.
 * [Yii 2 jsTree Component](http://yiidreamteam.com/yii2/jstree) - jsTree is jquery plugin, that provides interactive trees. 
-* [yii2-notification-wrapper](https://github.com/loveorigami/yii2-notification-wrapper) - Notification wrapper module renders a message from session flash (with ajax, pjax support and etc.) through Growl, Noty, Toastr and more libraries
+* [yii2-notification-wrapper](https://github.com/loveorigami/yii2-notification-wrapper) - Notification wrapper module renders a message from session flash (with ajax, pjax support and etc.) through Growl, Noty, Toastr and more libraries.
 
 ### Social
 
