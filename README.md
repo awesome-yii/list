@@ -142,6 +142,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and other [awes
 * [LinkedIn](https://www.linkedin.com/groups/1483367/profile) - Yii 2 LinkedIn group.
 * [Twitter](https://twitter.com/yiiframework) - Yii frameworks Twitter account.
 * [yiiframework.ru](http://yiiframework.ru/) - Russian-speaking Yii 2 community.
+* [Slack](https://join.slack.com/t/yii/shared_invite/MjIxMjMxMTk5MTU1LTE1MDE3MDAwMzMtM2VkMTMyMjY1Ng) - Community in Slack.
 
 
 ## Contributing
